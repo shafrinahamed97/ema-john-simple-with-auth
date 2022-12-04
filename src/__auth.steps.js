@@ -24,5 +24,14 @@ userContext provides AuthContext
 
 */
 
+/*
+FIREBASE HOSTING
+------------------------
+// one time for each computer
+1. npm install -g firebase-tools
+2. firebase login
+
+*/
+
 
 
